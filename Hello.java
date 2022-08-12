@@ -1,5 +1,3 @@
-package Learning;
-
 public class Hello {
 
 	public static void main(String[] args) {
